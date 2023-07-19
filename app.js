@@ -1,4 +1,5 @@
-export const getName = () => {
+const getName = () => {
     return 'Prakash';
 }
 
+module.exports = getName;
