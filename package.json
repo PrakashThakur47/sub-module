@@ -1,0 +1,22 @@
+{
+  "name": "sub-module",
+  "version": "1.0.0",
+  "description": "sub-module to test submodule functionality in git",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrakashThakur47/sub-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrakashThakur47/sub-module/issues"
+  },
+  "homepage": "https://github.com/PrakashThakur47/sub-module#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
